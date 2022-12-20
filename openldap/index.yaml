@@ -9,5 +9,5 @@ entries:
     name: openldap
     type: application
     urls:
-    - https://pablommd.github.io/prueba1/openldapchart.tgz
+    - https://pablommd.github.io/prueba1/openldap-1.2.7.tgz
     version: 0.1.0
